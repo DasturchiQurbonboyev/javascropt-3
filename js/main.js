@@ -9,6 +9,47 @@
 
 // if 2
 
+
+
+// if 3
+
+
+
+// if 4
+
+
+
+
+// if 5
+
+
+
+// if 6
+
+
+
+// if 7
+
+
+
+// if 8
+
+
+
+// if 9
+
+
+
+// if 10
+
+
+
+// if 11
+
+
+
+// if 12
+
 // let a = +prompt("a ni kiriting ");
 // let b = +prompt("b ni kiriting ");
 // let c = +prompt("c ni kiriting ");
@@ -42,7 +83,7 @@
 //     }
 // }
 
-// if 3
+// if 13
 
 // let A = +prompt("A ni kiriting ");
 // let B = +prompt("B ni kiriting ");
@@ -64,7 +105,7 @@
 //     console.log(C*(-1));
 // }
 
-// if 4
+// if 14
 
 // let A = +prompt("A ni kiriting ");
 // let B = +prompt("B ni kiriting ");
@@ -100,66 +141,28 @@
 // }
 
 
-
-// if 5
-
-let a = +prompt("a ni kiriting ");
-let b = +prompt("b ni kiriting ");
-let c = +prompt("c ni kiriting ");
-let d = +prompt("d ni kiriting ");
-
-if (a==b){
-    if (b==c){
-        console.log(4);
-    }else{
-        if (b==d){
-            console.log(3);
-        }
-    }
-
-}else {
-    if (a==c)
-}
-
-// if 6
-
-
-
-// if 7
-
-
-
-// if 8
-
-
-
-// if 9
-
-
-
-// if 10
-
-
-
-// if 11
-
-
-
-// if 12
-
-
-
-// if 13
-
-
-
-// if 14
-
-
-
 // if 15
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
+// let c = +prompt("c ni kiriting ");
+// let d = +prompt("d ni kiriting ");
 
+// if (a==b && b==c){
+//     console.log(4);
+// }
+
+// if (a==b && b==d){
+//     console.log(3);
+// }
+
+// if (a==c && c==d){
+//     console.log(2);
+// }
+
+// if (b==c && c==d) { 
+//     console.log(1);
+// }
 
 // if 16
 
