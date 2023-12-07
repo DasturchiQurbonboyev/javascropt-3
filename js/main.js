@@ -9,7 +9,21 @@
 
 // if 2
 
+// let a = +prompt("a ni kiriting ");
 
+// if (a > 0) {
+//   a++;
+//   console.log(a);
+// }else if (a<0){
+//     a -= 2;
+//     console.log(a);
+// } else{
+//     a=10;
+//     console.log(a);
+// }
+
+
+// console.log(a);
 
 // if 3
 
