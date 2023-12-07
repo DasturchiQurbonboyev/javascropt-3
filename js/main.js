@@ -27,40 +27,180 @@
 
 // if 3
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
+// let c = +prompt("c ni kiriting ");
+
+// let positive = 0;
+
+// if (a > 0) {
+//   positive++;
+// }
+
+
+// if (b > 0) {
+//   positive++;
+// }
+
+
+// if (c > 0) {
+//   positive++;
+// }
+
+// console.log(positive);
 
 
 // if 4
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
 
-
+// if (a>b){
+//     console.log(a);
+// }else{
+//     console.log(b);
+// }
 
 // if 5
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
 
+// if (a>b){
+//     console.log(2);
+// }else{
+//     console.log(1);
+// }
 
 // if 6
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
 
+// if (a>b){
+//     console.log(a);
+//     console.log(b);
+// }else{
+//     console.log(b);
+//     console.log(a);
+// }
 
 // if 7
 
+// let a = +prompt("a ni kiriting ");
+// let b = +prompt("b ni kiriting ");
 
+// let k =a;
+
+// if (a>b){
+//     a=b;
+//     b=k;
+//     console.log(a);
+//     console.log(b);
+// }else{
+//     console.log(a);
+//     console.log(b);
+// }
 
 // if 8
+
+// let A = +prompt("A ni kiriting ");
+// let B = +prompt("B ni kiriting ");
+
+// if (A != B){
+//     A = A + B;
+//     B = A;
+//     console.log("A= ", A );
+//     console.log("B= ", B );
+
+// }
+// else{
+//     A = B = 0;
+//     console.log("A= ", A );
+//     console.log("B= ", B );
+// }
 
 
 
 // if 9
 
+// let A = +prompt("A ni kiriting ");
+// let B = +prompt("B ni kiriting ");
 
+// if (A != B){
+//     if(A>B){
+//         B = A;
+//         console.log("A= ", A );
+//         console.log("B= ", B );
+//     }else{
+//         A = B;
+//         console.log("A= ", A );
+//         console.log("B= ", B );
+//     }
+
+// }
+// else{
+//     A = B = 0;
+//     console.log("A= ", A );
+//     console.log("B= ", B );
+// }
 
 // if 10
 
+// let A = +prompt("A ni kiriting ");
+// let B = +prompt("B ni kiriting ");
+// let C = +prompt("C ni kiriting ");
+
+// if (A>B){
+//     if(B>C){
+//         console.log(C);
+//     }else{
+//         if(A>C){
+//             console.log(B);
+//         }else{
+//             console.log(B);
+//         }
+//     }
+// }else{
+//     if(A>C){
+//         console.log(C);
+//     }else{
+//         if(B>C){
+//             console.log(A);
+//         }else{
+//             console.log(A);
+//         }
+//     }
+// }
 
 
 // if 11
 
+// let A = +prompt("A ni kiriting ");
+// let B = +prompt("B ni kiriting ");
+// let C = +prompt("C ni kiriting ");
 
+// if (A>B){
+//     if(B>C){
+//         console.log(B);
+//     }else{
+//         if(A>C){
+//             console.log(C);
+//         }else{
+//             console.log(A);
+//         }
+//     }
+// }else{
+//     if(A>C){
+//         console.log(A);
+//     }else{
+//         if(B>C){
+//             console.log(C);
+//         }else{
+//             console.log(B);
+//         }
+//     }
+// }
 
 // if 12
 
